@@ -2,7 +2,7 @@
 Gazebo-ROS2 Humble autonomous exploration of TurtleBot3 using SLAM Toolbox, Nav2, RRT-frontier based exploration and AprilTag detection.
 by: Anchia Wilmer and Mehrabi Bahram.
     
-# TurtleBot3 Autonomous Navigation with ROS 2
+# TurtleBot3: Autonomous Maze Exploration with ROS2 abd Gazebo
 
 ## About
 

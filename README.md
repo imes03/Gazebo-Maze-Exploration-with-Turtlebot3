@@ -189,3 +189,13 @@ and contains additional developments including:
 - AprilTag integration
 - Autonomous exploration node
 - TurtleBot3 Burger camera simulation
+
+Please also check for the packages, run:
+
+```bash
+apt-get update && apt-get install -y ros-humble-slam-toolbox \
+                   ros-humble-turtlebot3 \
+                   ros-humble-turtlebot3-simulations \
+```
+
+

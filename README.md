@@ -153,13 +153,9 @@ ros2 run autonomous_tb3 explorer_node
 
 ---
 
-# Demonstration
+## Demo Video
+🎥 [Click here to watch the demo](https://github.com/imes03/Gazebo-Maze-Exploration-with-Turtlebot3/blob/main/Autonomous_Navigation_TurtleBot/Simulation1.mp4)
 
-A demonstration video is included in this repository:
-
-```
-Simulation1.mp4
-```
 
 ---
 

@@ -8,7 +8,7 @@ by: Anchia Wilmer and Mehrabi Bahram.
 
 This project implements an autonomous exploration framework for the **TurtleBot3 Burger with RGB camera** using **ROS 2 Humble** and **Gazebo**. The system combines **SLAM Toolbox**, **Navigation2**, **frontier-based exploration using Rapidly-exploring Random Trees (RRT)**, and **AprilTag detection** to autonomously explore unknown indoor environments.
 
-The robot incrementally builds an occupancy grid map, detects frontiers, selects the next exploration target using RRT, navigates autonomously using Navigation2, and simultaneously detects AprilTags using an RGB camera. The project was developed as part of the Master's program in Mechatronics and Cyber-Physical Systems.
+The robot incrementally builds an occupancy grid map, detects frontiers, selects the next exploration target using RRT, navigates autonomously using Navigation2, and simultaneously detects AprilTags using an RGB camera. The project was developed as part of a compulsory elective course "FWP:ROS" in a Master's program in Mechatronics and Cyber-Physical Systems.
 
 ---
 
